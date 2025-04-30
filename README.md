@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mirigrinzaig/leetcodes/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
