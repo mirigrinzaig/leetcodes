@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0135-candy](https://github.com/mirigrinzaig/leetcodes/tree/master/0135-candy) |
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
 ## Dynamic Programming
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/mirigrinzaig/leetcodes/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
