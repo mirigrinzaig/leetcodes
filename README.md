@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/mirigrinzaig/leetcodes/tree/master/0135-candy) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
