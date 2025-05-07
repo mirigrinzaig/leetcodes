@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0135-candy](https://github.com/mirigrinzaig/leetcodes/tree/master/0135-candy) |
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
+| [0287-find-the-duplicate-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mirigrinzaig/leetcodes/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mirigrinzaig/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mirigrinzaig/leetcodes/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
