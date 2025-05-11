@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mirigrinzaig/leetcodes/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0135-candy](https://github.com/mirigrinzaig/leetcodes/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
