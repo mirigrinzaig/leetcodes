@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mirigrinzaig/leetcodes/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/mirigrinzaig/leetcodes/tree/master/0072-edit-distance) |
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mirigrinzaig/leetcodes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mirigrinzaig/leetcodes/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mirigrinzaig/leetcodes/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/mirigrinzaig/leetcodes/tree/master/0072-edit-distance) |
 ## String Matching
 |  |
 | ------- |
