@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mirigrinzaig/leetcodes/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mirigrinzaig/leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mirigrinzaig/leetcodes/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/mirigrinzaig/leetcodes/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/mirigrinzaig/leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/mirigrinzaig/leetcodes/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mirigrinzaig/leetcodes/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mirigrinzaig/leetcodes/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/mirigrinzaig/leetcodes/tree/master/0067-add-binary) |
 ## Union Find
 |  |
