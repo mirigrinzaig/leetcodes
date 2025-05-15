@@ -3,7 +3,6 @@ class Solution:
   def minDistance(self, word1, word2):
     m = len(word1)
     n = len(word2)
-    # dp[i][j] := min # Of operations to convert word1[0..i) to word2[0..j)
     dp = [[0] * (n + 1) for _ in range(m + 1)]
 
     for i in range(1, m + 1):
