@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mirigrinzaig/leetcodes/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0287-find-the-duplicate-number) |
+| [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mirigrinzaig/leetcodes/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mirigrinzaig/leetcodes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/mirigrinzaig/leetcodes/tree/master/0072-edit-distance) |
+| [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
 ## String Matching
 |  |
 | ------- |
@@ -103,4 +105,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mirigrinzaig/leetcodes/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
