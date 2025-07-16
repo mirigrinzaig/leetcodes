@@ -109,17 +109,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mirigrinzaig/leetcodes/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mirigrinzaig/leetcodes/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mirigrinzaig/leetcodes/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mirigrinzaig/leetcodes/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
