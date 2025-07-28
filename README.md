@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/mirigrinzaig/leetcodes/tree/master/0287-find-the-duplicate-number) |
 | [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
+| [0945-snakes-and-ladders](https://github.com/mirigrinzaig/leetcodes/tree/master/0945-snakes-and-ladders) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mirigrinzaig/leetcodes/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/mirigrinzaig/leetcodes/tree/master/0221-maximal-square) |
+| [0945-snakes-and-ladders](https://github.com/mirigrinzaig/leetcodes/tree/master/0945-snakes-and-ladders) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mirigrinzaig/leetcodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mirigrinzaig/leetcodes/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/mirigrinzaig/leetcodes/tree/master/0399-evaluate-division) |
+| [0945-snakes-and-ladders](https://github.com/mirigrinzaig/leetcodes/tree/master/0945-snakes-and-ladders) |
 ## Graph
 |  |
 | ------- |
