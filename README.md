@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/mirigrinzaig/leetcodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mirigrinzaig/leetcodes/tree/master/0210-course-schedule-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mirigrinzaig/leetcodes/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
